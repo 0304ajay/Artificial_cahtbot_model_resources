@@ -1,0 +1,1 @@
+In this repository, you'll find solutions to various problems related to stacks and queues. These problems cover a wide range of concepts including stack implementation, queue implementation, stack manipulation, queue manipulation, and applications of stacks and queues in algorithmic problem-solving.
